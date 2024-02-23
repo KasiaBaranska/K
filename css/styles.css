@@ -3,6 +3,10 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+.fw-bolder {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #82268e;}
+
+.contact-list a {color: #610e99;}
+
 /* Styles for the body */
 
 body {
@@ -24,6 +28,11 @@ body {
 .resume-aside {
 	background-color: #f6e9fa;
 }
+
+.language-level .language-progress {
+    background-color: #00FF00;
+}
+
 
 /* Styles for lists in the document */
 
