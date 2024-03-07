@@ -5,7 +5,7 @@
 
 .fw-bolder {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #82268e;}
 
-.contact-list a {color: #610e99;}
+.contact-list a {color: #6a0fa7;}
 
 /* Styles for the body */
 
@@ -29,6 +29,10 @@ body {
 	background-color: #f6e9fa;
 }
 
+/* New style for the "Professional Experience" section */
+.experience-section {
+    font-family: 'Times', sans-serif; /* Change 'Roboto' to your desired font */
+}
 
 /* Styles for lists in the document */
 
